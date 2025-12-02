@@ -1,0 +1,1 @@
+DELETE FROM relatorio_diario
