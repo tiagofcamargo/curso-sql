@@ -3,8 +3,6 @@ Repositório completo dos meus estudos e práticas em SQL baseados no curso do *
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/tiagofcamargo/curso-sql?color=blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tiagofcamargo/curso-sql?color=yellow)
-![GitHub language count](https://img.shields.io/github/languages/count/tiagofcamargo/curso-sql?color=orange)
-![GitHub top language](https://img.shields.io/github/languages/top/tiagofcamargo/curso-sql?color=brightgreen)
 ![Status](https://img.shields.io/badge/STATUS-FINALIZADO-brightgreen)
 
 ---
